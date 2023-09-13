@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\MIMIR\Desktop\workspace\proyectos Python\appToDo\venv"
+VIRTUAL_ENV="C:\Users\MIMIR\Desktop\workspace\proyectos Python\todoer\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
